@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(25, 25, 25);
+    color: white;
+  }
+  .title{
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .playerMove{
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    background: transparent;
+    border: 3px solid white;
+    margin-right: 10px;
+    cursor: pointer;
+    
+  }
+  .playerMoveImage{
+    height: 50px;
+  }
+  .result{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 50px;
+  }
+  .score{
+    margin-top: 60px;
+  }
+  .resetButton{
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    padding: 8px 15px;
+    border: none;
+    cursor: pointer;
+  }
